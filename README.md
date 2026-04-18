@@ -11,7 +11,7 @@ A minimal and elegant Flutter application that displays random inspirational quo
 ## 📸 Demo & Screenshots
 <p align="center">
   <img src="https://github.com/user-attachments/assets/369eab4b-3968-467c-83bb-d69f14b615fc" width="220" />
-  <img src="https://github.com/user-attachments/assets/4100244f-6464-4a9e-94bf-3f5171c06225" width="220" />
+  <img src="https://github.com/user-attachments/assets/4100244f-6464-4a9e-94bf-3f5171c06225" width="225" />
 </p>
 
 ## 🛠 Tech Stack
